@@ -9,6 +9,7 @@ import lombok.Setter;
 import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
+import java.util.Set;
 
 @Setter
 @Getter
@@ -24,4 +25,10 @@ public class Event implements Serializable {
     private String lieu ;
     private int durée ;
     private String host ;
+    @ManyToMany(fetch = FetchType.EAGER)
+    @JoinTable(name = "user_event",
+            joinColumns = @JoinColumn(name = "event_id"),
+            inverseJoinColumns = @JoinColumn(name = "user_id"))
+    private Set<User> registeredUsers;
+
 }

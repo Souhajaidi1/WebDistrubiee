@@ -3,6 +3,7 @@ package tn.esprit.ms_event.Controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import tn.esprit.ms_event.Entities.Event;
+import tn.esprit.ms_event.Entities.User;
 import tn.esprit.ms_event.Services.EventServiceIMP;
 
 import java.util.List;
@@ -40,5 +41,13 @@ public class EventController {
     @DeleteMapping("/{eventId}")
     public void deleteEvent(@PathVariable Long eventId) {
         eventService.deleteEvent(eventId);
+    }
+    @PostMapping("/{eventId}/register")
+    public Event registerForEvent(@PathVariable Long eventId, @RequestBody User user) {return eventService.registerUserForEvent(eventId,user);
+    }
+
+    @DeleteMapping("/{eventId}/unregister")
+    public Event unregisterFromEvent(@PathVariable Long eventId, @RequestBody User user) { return eventService.unregisterUserFromEvent(eventId,user);
+
     }
 }
