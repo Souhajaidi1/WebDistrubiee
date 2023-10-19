@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5e11ad5-2198-4122-beb2-ec413f408d79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Controller/BesoinController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Exception/BesoinUpdateException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Service/BesoinService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Controller/AiController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Entity/AiModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Entity/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/IaMicroserviceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Repository/AiRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Repository/BesoinRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Service/AiService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Service/AiServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdBesoinMs/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IdBesoinMs/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Controller/BesoinController.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Controller/BesoinController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Entity/Besoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Entity/Besoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Service/BesoinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Service/BesoinService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +30,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2WrFoL6F3z8D4tyfmLQ1RqT4FY1" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -56,29 +41,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "IMicroS",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/oussa/Desktop/IaMIcroService",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;IMicroS&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oussa/Desktop/IaMIcroService&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="tn.esprit.IdBesoinMS.WebSocket" />
       <recent name="tn.esprit.IdBesoinMS.Service" />
     </key>
   </component>
@@ -120,7 +106,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697482965864</updated>
-      <workItem from="1697482966870" duration="17282000" />
+      <workItem from="1697482966870" duration="16770000" />
+      <workItem from="1697683068339" duration="6545000" />
     </task>
     <servers />
   </component>
