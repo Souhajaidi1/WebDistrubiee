@@ -1,13 +1,13 @@
-package tn.esprit.IaMicroservice;
+package tn.esprit.IdBesoinMS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IaMicroserviceApplication {
+public class IdBesoinApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(IaMicroserviceApplication.class, args);
+        SpringApplication.run(IdBesoinApplication.class, args);
     }
 
 }

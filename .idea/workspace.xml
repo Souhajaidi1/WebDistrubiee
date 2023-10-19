@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5e11ad5-2198-4122-beb2-ec413f408d79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Controller/BesoinController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Exception/BesoinUpdateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Service/BesoinService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Controller/AiController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Entity/AiModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/IaMicroserviceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Repository/AiRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdBesoinMs/src/main/java/tn/esprit/IdBesoinMS/Repository/BesoinRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Service/AiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/java/tn/esprit/IaMicroservice/Service/AiServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IaMicroservice/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2WrFoL6F3z8D4tyfmLQ1RqT4FY1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "IMicroS",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/oussa/Desktop/IaMIcroService",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tn.esprit.IdBesoinMS.Service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IdBesoinApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="API_Gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codedecode.microservices.API_Gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="EurekaServer2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.eurekaserver2.EurekaServer2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IdBesoinApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="IdBesoinMs" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.IdBesoinMS.IdBesoinApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5e11ad5-2198-4122-beb2-ec413f408d79" name="Changes" comment="" />
+      <created>1697482965864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697482965864</updated>
+      <workItem from="1697482966870" duration="17282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
