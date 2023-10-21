@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/API_Gateway/API_Gateway.iml" filepath="$PROJECT_DIR$/API_Gateway/API_Gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer2.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/MS_Event/MS_Event.iml" filepath="$PROJECT_DIR$/MS_Event/MS_Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MsReunion/MsReunion.iml" filepath="$PROJECT_DIR$/MsReunion/MsReunion.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/webDistrubiée.iml" filepath="$PROJECT_DIR$/.idea/webDistrubiée.iml" />
     </modules>
   </component>

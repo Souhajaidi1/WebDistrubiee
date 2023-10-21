@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/MS_Event/pom.xml" />
         <option value="$PROJECT_DIR$/API_Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/MsReunion/pom.xml" />
       </list>
     </option>
   </component>
