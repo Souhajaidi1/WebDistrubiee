@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FeedBack" />
+        <module name="gestionUser" />
+        <module name="Portfolio" />
+        <module name="PartenariatMs" />
+        <module name="EurekaServer2" />
+        <module name="Analytics" />
+        <module name="MsReunion" />
+        <module name="MsPostCommentaire" />
+        <module name="MSPrestation" />
+        <module name="API_Gateway" />
+        <module name="Reclamation" />
+        <module name="gestionAuth" />
+        <module name="MS_Event" />
+        <module name="CRM" />
+        <module name="IdBesoinMs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Analytics" target="17" />
+      <module name="API_Gateway" target="17" />
+      <module name="CRM" target="1.8" />
+      <module name="EurekaServer2" target="1.8" />
+      <module name="FeedBack" target="17" />
+      <module name="gestionAuth" target="1.8" />
+      <module name="gestionUser" target="1.8" />
+      <module name="IdBesoinMs" target="17" />
+      <module name="MS_Event" target="17" />
+      <module name="MsPostCommentaire" target="17" />
+      <module name="MSPrestation" target="1.8" />
+      <module name="MsReunion" target="17" />
+      <module name="PartenariatMs" target="17" />
+      <module name="Portfolio" target="1.8" />
+      <module name="Reclamation" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="API_Gateway" options="-parameters" />
+      <module name="Analytics" options="-parameters" />
+      <module name="CRM" options="-parameters" />
+      <module name="EurekaServer2" options="-parameters" />
+      <module name="FeedBack" options="-parameters" />
+      <module name="IdBesoinMs" options="-parameters" />
+      <module name="MSPrestation" options="-parameters" />
+      <module name="MS_Event" options="-parameters" />
+      <module name="MsPostCommentaire" options="-parameters" />
+      <module name="MsReunion" options="-parameters" />
+      <module name="PartenariatMs" options="-parameters" />
+      <module name="Portfolio" options="-parameters" />
+      <module name="Reclamation" options="-parameters" />
+      <module name="gestionAuth" options="-parameters" />
+      <module name="gestionUser" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MS_Event/pom.xml" />
+        <option value="$PROJECT_DIR$/MsReunion/pom.xml" />
+        <option value="$PROJECT_DIR$/API_Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/MSPrestation/pom.xml" />
+        <option value="$PROJECT_DIR$/CRM/pom.xml" />
+        <option value="$PROJECT_DIR$/Portfolio/pom.xml" />
+        <option value="$PROJECT_DIR$/MsPostCommentaire/pom.xml" />
+        <option value="$PROJECT_DIR$/Reclamation/pom.xml" />
+        <option value="$PROJECT_DIR$/FeedBack/pom.xml" />
+        <option value="$PROJECT_DIR$/Analytics/pom.xml" />
+        <option value="$PROJECT_DIR$/IdBesoinMs/pom.xml" />
+        <option value="$PROJECT_DIR$/PartenariatMs/pom.xml" />
+        <option value="$PROJECT_DIR$/gestionAuth/pom.xml" />
+        <option value="$PROJECT_DIR$/gestionUser/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/output" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

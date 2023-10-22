@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API_Gateway/API_Gateway.iml" filepath="$PROJECT_DIR$/API_Gateway/API_Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Analytics/Analytics.iml" filepath="$PROJECT_DIR$/Analytics/Analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRM/CRM.iml" filepath="$PROJECT_DIR$/CRM/CRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer2.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FeedBack/FeedBack.iml" filepath="$PROJECT_DIR$/FeedBack/FeedBack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdBesoinMs/IdBesoinMs.iml" filepath="$PROJECT_DIR$/IdBesoinMs/IdBesoinMs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MSPrestation/MSPrestation.iml" filepath="$PROJECT_DIR$/MSPrestation/MSPrestation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MS_Event/MS_Event.iml" filepath="$PROJECT_DIR$/MS_Event/MS_Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MsPostCommentaire/MsPostCommentaire.iml" filepath="$PROJECT_DIR$/MsPostCommentaire/MsPostCommentaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MsReunion/MsReunion.iml" filepath="$PROJECT_DIR$/MsReunion/MsReunion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PartenariatMs/PartenariatMs.iml" filepath="$PROJECT_DIR$/PartenariatMs/PartenariatMs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Portfolio/Portfolio.iml" filepath="$PROJECT_DIR$/Portfolio/Portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reclamation/Reclamation.iml" filepath="$PROJECT_DIR$/Reclamation/Reclamation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Web.iml" filepath="$PROJECT_DIR$/.idea/Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestionAuth/gestionAuth.iml" filepath="$PROJECT_DIR$/gestionAuth/gestionAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gestionUser/gestionUser.iml" filepath="$PROJECT_DIR$/gestionUser/gestionUser.iml" />
+    </modules>
+  </component>
+</project>
